@@ -1,0 +1,5 @@
+# Anything in private/ stays on your laptop and is never uploaded to GitHub.
+# Put CVs, photos, and notes here.
+private/*
+!private/README.md
+.DS_Store
